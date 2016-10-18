@@ -1,5 +1,5 @@
 PROJECT = emq_mod_rewrite
-PROJECT_DESCRIPTION = EMQ Rewrite Module
+PROJECT_DESCRIPTION = Rewrite Module
 PROJECT_VERSION = 2.0
 
 BUILD_DEPS = emqttd
