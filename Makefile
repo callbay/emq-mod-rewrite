@@ -1,6 +1,6 @@
 PROJECT = emq_mod_rewrite
 PROJECT_DESCRIPTION = Rewrite Module
-PROJECT_VERSION = 2.0.1
+PROJECT_VERSION = 2.0.7
 
 BUILD_DEPS = emqttd
 dep_emqttd = git https://github.com/emqtt/emqttd master
